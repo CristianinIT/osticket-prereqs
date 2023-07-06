@@ -24,9 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services (IIS)
 - Install web platform installer
-- Install MySQL and set up username and password
+- Install MySQL
 - Install C++ redistributable
-- Install Configure persmissions and install osTicket
 
 <h2>Installation Steps</h2>
 
@@ -42,16 +41,24 @@ The next step is connecting to the VM using Remote Desktop Protocol (RDP). Use t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="600" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/59ce92c3-e1bd-4f18-ba3d-3c111ef1ab09">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the VM is up and running, downlaod the necessary files through the VM. https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+Next, install and enable Internet Information Services (IIS) and CGI via control panel. While in control panel click the following:
+  - Uninstall or change a program
+  - Turn Windows features on or off
+  - Expand IIS, World Wide Web Services, Application Development Features
+  - Enable CGI
+  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img <img width="585" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/abe01a5f-57ec-4e2f-96b9-76cb6731723b">
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
