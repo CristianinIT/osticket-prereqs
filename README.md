@@ -121,3 +121,20 @@ Refresh the osTicket installer page. From here, go to C:\inetpub\wwwroot\osTicke
 <img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/a3a04994-7726-4aa5-a4a8-116750aa531d">
 <p>
 <img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/9636b1d1-0c33-49ad-99d4-d28312a8af88">
+
+<p>
+Go to the osTicket page and begin setting up the required information. Once that is completed, download and install HeidiSQL, type in the password that was used for MySQL. In HeidiSQL, right click "unamed" and create a new database and name it "osticket". 
+</p>
+
+<p>
+<img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/fd6a34f5-e43e-4339-9a68-2fd7b9050622">
+<p>
+<img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/cc4f511e-00f4-411e-a927-d3f98dfa3eec">
+
+<p>
+Go back to the osTicket installer page and fill out the database settings to finalize. Click "Install Now" and congrats on succesfully installing osTicket. Ensure on deleting the setup folder in C:\inetpub\osTicket. Also, set permessions tp "Read" only for the "ost-config.php" folder via security's advanced settings. Now, osTicket is ready to be used.
+</p>
+<p>
+<img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/c2e09c0b-add7-4b9f-a9fb-06f1a3e5d7a0">
+<p>
+<img <img width="721" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/f7143de9-8c1a-4de8-b504-8dfa9759d4b6">
