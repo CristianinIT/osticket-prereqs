@@ -36,7 +36,7 @@ To start the tutorial we will create a virtual machine (VM) using Microsoft Azur
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Starting
+The next step is connecting to the VM using Remote Desktop Protocol (RDP). Use the VM's public IPv4 address found in the VM's overview section and connect to it.
 </p>
 <br />
 
