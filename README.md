@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 To start the tutorial we will create a virtual machine (VM) using Microsoft Azure. The VM's name can be anything you decide to use, however the recommended specifications for the VM should include windows 10 and at least 2 vcpu. These choices will allow the VM to run smoothly. The last step is to write down a username and password that you will use for logging into the VM after it's ready to be used.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="944" alt="image" src="https://github.com/CristianinIT/osticket-prereqs/assets/138620922/e5e7ac82-1450-4509-9217-61004ab3664e">
+
 </p>
 <p>
 The next step is connecting to the VM using Remote Desktop Protocol (RDP). Use the VM's public IPv4 address found in the VM's overview section and connect to it.
